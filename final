@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taller #1</title>
+</head>
+<title>Taller #1</title>
+<link rel="stylesheet" type="text/css" href="estilos.css">
+<body>
+    
+<h1>La mejor moto</h1>
+<nav>
+<ul>
+
+    <li><a href="">Manubrio</a></li>
+    <li><a href="">Motor</a></li>
+    <li><a href="">Llantas</a></li>
+    <li><a href="">Exosto</a></li>
+</ul>
+</nav>
+
+<div class="contenido">
+    <div class="articulos">
+        <div class="secciones">
+            <div>
+                <h2>Historia</h2>
+<p>La Yamaha MT-09 (FZ-09 en América del Norte) es un motocicleta estándar de motor en línea tricilíndrica de 847 cc (51.7 cu en). Tiene el nuevo motor tipo "desaxé", un marco de aleación de aluminio, y horquilla invertida.
+    la MT-09 compite contra la Triumph Street Triple, la Kawasaki Z800, la MV Agusta Brutale y su prima de la misma casa Yamaha FZ8. La intención de este nuevo diseño fue introducir nuevos modelos, debido a que Yamaha ha sido criticada los últimos años por su falta de innovación.2 El Gerente de Producción de la MT-09, Shun Miyazawa, dijo que Yamaha consideró los cilindros dobles en línea, morochos, triples y cuádruples, pero al final los triple en línea ofrecen la mejor solución para otorgar potencia, torque y bajo peso. Comparando la MT-09 con la Triumph Street Triple, él dijo que Triumph es un "peleador callejero", pero que la Yamaha era como una "turismo motard".3
+
+Tanto el cuadro como el brazo trasero son hechos en una liviana aleación fundida en dos piezas. Ambas piezas están ensambladas en la parte trasera, pero las piezas del brazo trasero están soldados entre sí.3 La MT-09 es la primera Yamaha con motor triple desde la XS750 and XS850, ambas producidas desde 1976 hasta 1981.
+</p>
+            </div>
+            <div><img src="https://i.pinimg.com/736x/69/1c/6c/691c6c5451894c7148c1760ff37aac78.jpg" alt=""></div>
+        </div>
+
+    </div>
+    <div class="menu-secundario">
+        <a href="https://www.incolmotos-yamaha.com.co/vehiculo/mt09a-2/2317/" target="_blank">Tienda Yamaha</a>
+        <a href="https://listado.mercadolibre.com.mx/manubrio-mt09#!messageGeolocation" target="_blank">Manubrio</a>
+        <a href="https://www.motorbikemag.es/ficha-tecnica/yamaha-mt-09-2022/" target="_blank">Motor</a>
+        <a href="https://listado.mercadolibre.com.co/llanta-mt-09" target="_blank">Llantas</a>
+        <a href="https://tuexosto.com/product-category/exostos/" target="_blank">Exosto</a>
+    </div>
+</div>
+
+<footer>
+    <h1>politicas de privacidad</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique quisquam, libero velit nobis ad aspernatur quidem, ut commodi magni totam reiciendis voluptatum at explicabo perferendis incidunt eligendi? Unde, et. Mollitia.</p>
+</footer>
+
+
+</body>
+</html>
