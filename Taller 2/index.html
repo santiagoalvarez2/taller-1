@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Taller 2</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link rel="shortcut icon" href="Imagenes/logo.jfif" type="image/x-icon">
+</head>
+  <body>
+    <div class="container">
+      <h1>Finca TDEA</h1>
+      <img src="Imagenes/tdea.jfif" alt="">
+      <form>
+        <div class="form-group">
+          <label for="producto">Producto</label>
+          <input type="text"  class="form-control" id="producto" placeholder="Ingrese el nombre del producto">
+        </div>
+        <div class="form-group">
+          <label for="cantidad">Cantidad</label>
+          <input type="number" class="form-control" id="cantidad" placeholder="Ingrese la cantidad">
+        </div>
+        <div class="form-group">
+            <label for="Precio">Precio</label>
+            <input type="number" class="form-control" id="Precio" placeholder="Ingrese el Precio">
+          </div>
+        <button type="button" class="btn btn-primary" onclick="agregarVenta()">Agregar venta</button>
+    </form>
+      <hr>
+      <h2>Lista de ventas</h2>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio unitario</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody id="ventasBody">
+        </tbody>
+      </table>
+      <div class="alert alert-primary" role="alert" id="totalAlert" style="display: none;"></div>
+    </div>
+    <script src="ventas.js"></script>
+  </body>
+</html>
+
